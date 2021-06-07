@@ -1,7 +1,7 @@
-<p align="center"><a href="https://github.com/Darkprnce/CAnime"><img src="/meta/android/canime.png" width="150"></a></p> 
+<p align="center"><a href="https://github.com/Darkprnce/CAnime"><img src="/meta/canime.png" width="150"></a></p> 
 <h2 align="center"><b>CAnime</b></h2>
 <h4 align="center">An Android app to watch anime on your phone for free.</h4>
-<p align="center"><a href="https://github.com/Darkprnce/CAnime/releases"><img src="/meta/android/download.png"></a></p> 
+<p align="center"><a href="https://github.com/Darkprnce/CAnime/releases"><img src="/meta/download.png"></a></p> 
 <p align="center">
 <a href="https://github.com/Darkprnce/CAnime" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" ></a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
@@ -13,15 +13,15 @@
 
 ## Screenshots
 
-[<img src="meta/android/screenshots/screenshot_01.jpg" width=160>](meta/android/screenshots/screenshot_01.jpg)
-[<img src="meta/android/screenshots/screenshot_02.jpg" width=160>](meta/android/screenshots/screenshot_02.jpg)
-[<img src="meta/android/screenshots/screenshot_03.jpg" width=160>](meta/android/screenshots/screenshot_03.jpg)
-[<img src="meta/android/screenshots/screenshot_04.jpg" width=160>](meta/android/screenshots/screenshot_04.jpg)
-[<img src="meta/android/screenshots/screenshot_05.jpg" width=160>](meta/android/screenshots/screenshot_05.jpg)
-[<img src="meta/android/screenshots/screenshot_06.jpg" width=160>](meta/android/screenshots/screenshot_06.jpg)
-[<img src="meta/android/screenshots/screenshot_07.jpg" width=160>](meta/android/screenshots/screenshot_07.jpg)
-[<img src="meta/android/screenshots/screenshot_08.jpg" width=160>](meta/android/screenshots/screenshot_08.jpg)
-[<img src="meta/android/screenshots/screenshot_09.jpg" width=160>](meta/android/screenshots/screenshot_09.jpg)
+[<img src="meta/android/screenshots/screenshot_01.png" width=160>](meta/android/screenshots/screenshot_01.png)
+[<img src="meta/android/screenshots/screenshot_02.png" width=160>](meta/android/screenshots/screenshot_02.png)
+[<img src="meta/android/screenshots/screenshot_03.png" width=160>](meta/android/screenshots/screenshot_03.png)
+[<img src="meta/android/screenshots/screenshot_04.png" width=160>](meta/android/screenshots/screenshot_04.png)
+[<img src="meta/android/screenshots/screenshot_05.png" width=160>](meta/android/screenshots/screenshot_05.png)
+[<img src="meta/android/screenshots/screenshot_06.png" width=160>](meta/android/screenshots/screenshot_06.png)
+[<img src="meta/android/screenshots/screenshot_07.png" width=160>](meta/android/screenshots/screenshot_07.png)
+[<img src="meta/android/screenshots/screenshot_08.png" width=160>](meta/android/screenshots/screenshot_08.png)
+[<img src="meta/android/screenshots/screenshot_09.png" width=160>](meta/android/screenshots/screenshot_09.png)
 
 
 ## Description
