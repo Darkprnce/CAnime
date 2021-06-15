@@ -54,3 +54,5 @@ I hope you will enjoy this app.
 
 ## Contribution
 Your ideas, design changes, or any help is always welcome. The more is contribution the better it gets.
+
+<p align="left"><a href="https://www.buymeacoffee.com/darkprnce"><img src="/meta/buycoffe.png" width="350"></a></p> 
