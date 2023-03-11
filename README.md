@@ -8,6 +8,9 @@
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
 <a href="https://github.com/Darkprnce/CAnime" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen.svg"></a>
 </p>
+<p align="center">
+ <a href="https://discord.gg/9DPRarF6Uy"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ </p>
 <hr>
 
 <h3 align="center">**Star :star:  this repo to show your support and it really does matter!** :clap:</h4>
