@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/Darkprnce/CAnime"><img src="/meta/canime.png" width="350"></a></p> 
 <h2 align="center"><b>CAnime</b></h2>
 <h4 align="center">An Android app to watch anime on your phone for free.</h4>
-<p align="center"><a href="https://github.com/Darkprnce/CAnime/releases"><img src="/meta/download.png"></a></p> 
-<p align="center"><a href="https://canime.in/"><img src="/meta/website.png"></a></p> 
+<p align="center"><a href="https://github.com/Darkprnce/CAnime/releases"><img src="/meta/downloads.png"></a> 
+<a href="https://canime.in/"><img src="/meta/website.png"></a></p> 
 <p align="center">
 <a href="https://github.com/Darkprnce/CAnime" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" ></a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
