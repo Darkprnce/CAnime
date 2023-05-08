@@ -17,17 +17,17 @@
 
 ## Screenshots
 
-[<img src="meta/android/screenshots/screenshot_01.jpeg" width=160>](meta/android/screenshots/screenshot_01.jpeg)
-[<img src="meta/android/screenshots/screenshot_02.jpeg" width=160>](meta/android/screenshots/screenshot_02.jpeg)
-[<img src="meta/android/screenshots/screenshot_03.jpeg" width=160>](meta/android/screenshots/screenshot_03.jpeg)
-[<img src="meta/android/screenshots/screenshot_04.jpeg" width=160>](meta/android/screenshots/screenshot_04.jpeg)
-[<img src="meta/android/screenshots/screenshot_05.jpeg" width=160>](meta/android/screenshots/screenshot_05.jpeg)
-[<img src="meta/android/screenshots/screenshot_06.jpeg" width=160>](meta/android/screenshots/screenshot_06.jpeg)
-[<img src="meta/android/screenshots/screenshot_07.jpeg" width=160>](meta/android/screenshots/screenshot_07.jpeg)
-[<img src="meta/android/screenshots/screenshot_08.jpeg" width=160>](meta/android/screenshots/screenshot_08.jpeg)
-[<img src="meta/android/screenshots/screenshot_09.jpeg" width=160>](meta/android/screenshots/screenshot_09.jpeg)
-[<img src="meta/android/screenshots/screenshot_10.jpeg" width=160>](meta/android/screenshots/screenshot_10.jpeg)
-[<img src="meta/android/screenshots/screenshot_11.jpeg" width=160>](meta/android/screenshots/screenshot_11.jpeg)
+[<img src="meta/screenshots/screenshot_01.jpeg" width=160>](meta/screenshots/screenshot_01.jpeg)
+[<img src="meta/screenshots/screenshot_02.jpeg" width=160>](meta/screenshots/screenshot_02.jpeg)
+[<img src="meta/screenshots/screenshot_03.jpeg" width=160>](meta/screenshots/screenshot_03.jpeg)
+[<img src="meta/screenshots/screenshot_04.jpeg" width=160>](meta/screenshots/screenshot_04.jpeg)
+[<img src="meta/screenshots/screenshot_05.jpeg" width=160>](meta/screenshots/screenshot_05.jpeg)
+[<img src="meta/screenshots/screenshot_06.jpeg" width=160>](meta/screenshots/screenshot_06.jpeg)
+[<img src="meta/screenshots/screenshot_07.jpeg" width=160>](meta/screenshots/screenshot_07.jpeg)
+[<img src="meta/screenshots/screenshot_08.jpeg" width=160>](meta/screenshots/screenshot_08.jpeg)
+[<img src="meta/screenshots/screenshot_09.jpeg" width=160>](meta/screenshots/screenshot_09.jpeg)
+[<img src="meta/screenshots/screenshot_10.jpeg" width=160>](meta/screenshots/screenshot_10.jpeg)
+[<img src="meta/screenshots/screenshot_11.jpeg" width=500 height=300>](meta/screenshots/screenshot_11.jpeg)
 
 
 ## Description
